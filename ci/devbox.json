@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.10.7/.schema/devbox.schema.json",
+  "include": [
+    "path:../shared/plugin.json",
+    "path:../team-a/plugin.json",
+    "path:../team-b/plugin.json"
+  ]
+}
+  

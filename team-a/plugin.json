@@ -1,0 +1,10 @@
+{
+  "name": "team-a",
+  "version": "1.0.0",
+  "packages": ["nodejs@20"],
+  "shell": {
+    "init_hook": [
+      "echo 'This plugin init_hook script runs for team A'"
+    ]
+  }
+}
