@@ -1,0 +1,10 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "packages": ["git@latest"],
+  "shell": {
+    "init_hook": [
+      "echo 'This plugin init_hook script runs for every team'"
+    ]
+  }
+}
